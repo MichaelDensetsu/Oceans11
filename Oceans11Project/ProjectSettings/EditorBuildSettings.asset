@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Oceans11/Scenes/MainMenu.unity
+    guid: 3959fdef1e02d4d4fb01414c7de44414
+  - enabled: 1
+    path: Assets/Oceans11/Scenes/0.MainScene.unity
+    guid: ed0d5bdf48415514dafc856b9e953c43
+  - enabled: 1
+    path: Assets/Oceans11/Scenes/1.Technical.unity
+    guid: 03ea88b2493ccdb429b2f0f1e3352748
+  - enabled: 1
+    path: Assets/Oceans11/Scenes/1.1Development.unity
+    guid: 519ddb85ef416f3468d1558c53562a29
+  - enabled: 1
+    path: Assets/Oceans11/Scenes/1.2Networks.unity
+    guid: 554f86f38c01c9742a0e7117a70b8b00
+  - enabled: 1
+    path: Assets/Oceans11/Scenes/1.3Data.unity
+    guid: c35473e56bdc008449fb3d8258a544cf
+  - enabled: 1
+    path: Assets/Oceans11/Scenes/1.4Security.unity
+    guid: e1aae72b19b45d4438b1f77a8b8523d2
+  - enabled: 1
+    path: Assets/Oceans11/Scenes/1.5Innovation.unity
+    guid: 4b0f2d5e76789bb4a965cc0a175b4464
+  - enabled: 1
+    path: Assets/Oceans11/Scenes/2.NonTechnical.unity
+    guid: 1b277a5318202d947bebc599d1f1ca8b
+  - enabled: 1
+    path: Assets/Oceans11/Scenes/2.1Consulting.unity
+    guid: a78285c04ac73ff428fe643637baf516
+  - enabled: 1
+    path: Assets/Oceans11/Scenes/2.2Development.unity
+    guid: 8c377693dc1e24b4fa6467a6db6980ad
+  - enabled: 1
+    path: Assets/Oceans11/Scenes/2.3Networks.unity
+    guid: b963422f715dec5438f303fd69ce529e
+  - enabled: 1
+    path: Assets/Oceans11/Scenes/2.4Risk.unity
+    guid: 4a3749468744f7b44a8d108491dd7043
+  - enabled: 1
+    path: Assets/Oceans11/Scenes/2.5Data.unity
+    guid: 4b19fd8b72919cb49abafd6bfbdf2d37
+  - enabled: 1
+    path: Assets/Oceans11/Scenes/2.6ChangeMgmt.unity
+    guid: 71ba4cc0735f9a942a3f081a9756636d
+  - enabled: 1
+    path: Assets/Oceans11/Scenes/2.7Security.unity
+    guid: 4716e46a87141784c8fc3ac82234f9ed
+  - enabled: 1
+    path: Assets/Oceans11/Scenes/About.unity
+    guid: f6a5c00f4836d0f4292ea4cff7655437
+  - enabled: 1
+    path: Assets/Oceans11/Scenes/Tutorial.unity
+    guid: 11a7a7aac52b6044caeaa7dfb924073d
+  m_configObjects: {}
