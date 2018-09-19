@@ -11,11 +11,12 @@ public class MoviePlayer : MonoBehaviour {
 
     [SerializeField] private VRInteractiveItem m_VRInteractiveItem; // The VRInteractiveItem that needs to be looked at for the textures to play.
     private VideoPlayer videoPlayer;
+    private AudioSource audioSource;
 
     void Start ()
     {
         videoPlayer = GetComponent<VideoPlayer>(); // In order to work with the videoplayer component
-
+        audioSource = GetComponent<AudioSource>(); // In order to work with the audiosource component
     }
     private void OnEnable()
     {
@@ -35,6 +36,7 @@ public class MoviePlayer : MonoBehaviour {
     {
         // When the user looks at the VRInteractiveItem the textures should start playing.
         videoPlayer.Play();
+        audioSource.Play();
     }
 
 
@@ -42,5 +44,6 @@ public class MoviePlayer : MonoBehaviour {
     {
         // When the user looks away from the VRInteractiveItem the textures should no longer be playing.
         videoPlayer.Pause();
+        audioSource.Pause();
     }
 }
