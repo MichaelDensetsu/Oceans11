@@ -177,6 +177,10 @@ Prefab:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 4300000, guid: 0832739f46ae85e429ad47899c36fe05, type: 3}
+    - target: {fileID: 2325724, guid: fe0047c62a262f74991aa39a7bc71ae4, type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 914debcfaceffbc4a8a28fdcc41458b6, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fe0047c62a262f74991aa39a7bc71ae4, type: 2}
   m_IsPrefabAsset: 0
@@ -1992,6 +1996,7 @@ MonoBehaviour:
   - {fileID: 1928065232}
   - {fileID: 1947940832}
   - {fileID: 1942867348}
+  - {fileID: 1828990868}
 --- !u!1001 &847475883
 Prefab:
   m_ObjectHideFlags: 0
@@ -2067,6 +2072,10 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.y
       value: -147.34901
       objectReference: {fileID: 0}
+    - target: {fileID: 2389160, guid: 40a3c2cb7308fdd49b8526fc1020e4eb, type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7aec63dec533b5f49b2d3ea84f5aaec8, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 40a3c2cb7308fdd49b8526fc1020e4eb, type: 2}
   m_IsPrefabAsset: 0
@@ -2552,6 +2561,10 @@ Prefab:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 4300000, guid: 0832739f46ae85e429ad47899c36fe05, type: 3}
+    - target: {fileID: 2387584, guid: 4cbaa410af4018f4c8df651c9ec5bd49, type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 13f7ba4a655e23e48984363f179e8a51, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4cbaa410af4018f4c8df651c9ec5bd49, type: 2}
   m_IsPrefabAsset: 0
@@ -2619,6 +2632,10 @@ Prefab:
       propertyPath: m_Name
       value: MenuDescription2
       objectReference: {fileID: 0}
+    - target: {fileID: 2392992, guid: 5c94e14eb82829e48986ce947fd5ad93, type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e6d93afe508c8224d89ca4be81e18db4, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c94e14eb82829e48986ce947fd5ad93, type: 2}
   m_IsPrefabAsset: 0
@@ -2919,6 +2936,10 @@ Prefab:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 4300000, guid: 0832739f46ae85e429ad47899c36fe05, type: 3}
+    - target: {fileID: 2389160, guid: 40a3c2cb7308fdd49b8526fc1020e4eb, type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a873b63b4e4732c4997e3f44a0fdccac, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 40a3c2cb7308fdd49b8526fc1020e4eb, type: 2}
   m_IsPrefabAsset: 0

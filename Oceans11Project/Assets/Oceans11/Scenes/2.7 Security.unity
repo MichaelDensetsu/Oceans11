@@ -181,6 +181,10 @@ Prefab:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2325724, guid: fe0047c62a262f74991aa39a7bc71ae4, type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4ca7cbe6d205e604bad55fbef1eb9c20, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fe0047c62a262f74991aa39a7bc71ae4, type: 2}
   m_IsPrefabAsset: 0
@@ -2550,6 +2554,10 @@ Prefab:
       propertyPath: m_Name
       value: MenuDescription2
       objectReference: {fileID: 0}
+    - target: {fileID: 2392992, guid: 5c94e14eb82829e48986ce947fd5ad93, type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3eb622dbbfbb8104492d47d748913e1e, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c94e14eb82829e48986ce947fd5ad93, type: 2}
   m_IsPrefabAsset: 0
@@ -2634,7 +2642,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   au: {fileID: 1371930615}
-  ac: {fileID: 8300000, guid: 8e211969e53bd204ca32764c149ff8a6, type: 3}
+  ac: {fileID: 8300000, guid: 1dd82ac2bf167544e8a607b429db35f4, type: 3}
 --- !u!65 &1249915094
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2849,6 +2857,10 @@ Prefab:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 4300000, guid: 0832739f46ae85e429ad47899c36fe05, type: 3}
+    - target: {fileID: 2389160, guid: 40a3c2cb7308fdd49b8526fc1020e4eb, type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9bdea3a989a55b44d81aeaedeb89d0f3, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 40a3c2cb7308fdd49b8526fc1020e4eb, type: 2}
   m_IsPrefabAsset: 0
@@ -2998,7 +3010,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   au: {fileID: 1371930615}
-  ac: {fileID: 8300000, guid: ca000a50584ee3a4fa17c57e658ac9db, type: 3}
+  ac: {fileID: 8300000, guid: c13cf3f8536f05642a493263b00973aa, type: 3}
 --- !u!65 &1928065237
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3080,7 +3092,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   au: {fileID: 1371930615}
-  ac: {fileID: 8300000, guid: 95706ad948644344a9c49ea11edbaad0, type: 3}
+  ac: {fileID: 8300000, guid: f255211a7e32562499f4aa8f13287b7a, type: 3}
 --- !u!65 &1989914404
 BoxCollider:
   m_ObjectHideFlags: 0
