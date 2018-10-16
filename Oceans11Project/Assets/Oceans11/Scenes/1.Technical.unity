@@ -258,7 +258,7 @@ VideoPlayer:
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_SkipOnDrop: 1
   m_Looping: 0
   m_WaitForFirstFrame: 1
@@ -282,6 +282,18 @@ MonoBehaviour:
   m_VRInteractiveItem: {fileID: 0}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: 42bab0b42ee959b4b9ef76871b08ee41, type: 3}
+--- !u!114 &71757998
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 71757993}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02dd983215d482245993bbc735bf5b84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 1942867348}
 --- !u!1001 &90136201
 Prefab:
   m_ObjectHideFlags: 0
@@ -2728,7 +2740,7 @@ VideoPlayer:
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_SkipOnDrop: 1
   m_Looping: 1
   m_WaitForFirstFrame: 1
@@ -2777,6 +2789,18 @@ MonoBehaviour:
   m_VRInteractiveItem: {fileID: 0}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: 4ecc03b99a7cda9419df82451019e115, type: 3}
+--- !u!114 &1249915088
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1249915083}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02dd983215d482245993bbc735bf5b84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 310010678}
 --- !u!114 &1277028541 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 11420606, guid: ccf8c8cc05aad7b40a8deb4f73296da4,
@@ -2851,7 +2875,7 @@ VideoPlayer:
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_SkipOnDrop: 1
   m_Looping: 0
   m_WaitForFirstFrame: 1
@@ -2875,6 +2899,18 @@ AudioSource:
   m_CorrespondingSourceObject: {fileID: 8270206, guid: 904806be95c6f7644bf0c8303943662e,
     type: 2}
   m_PrefabInternal: {fileID: 1574479595}
+--- !u!114 &1292108482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1292108476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02dd983215d482245993bbc735bf5b84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 1292108484}
 --- !u!114 &1292108484 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 11443232, guid: 904806be95c6f7644bf0c8303943662e,
@@ -3825,7 +3861,7 @@ VideoPlayer:
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_SkipOnDrop: 1
   m_Looping: 0
   m_WaitForFirstFrame: 1
@@ -3849,6 +3885,18 @@ AudioSource:
   m_CorrespondingSourceObject: {fileID: 8287798, guid: 19eafe53a7aadc644bc46200d92edfcb,
     type: 2}
   m_PrefabInternal: {fileID: 600556929}
+--- !u!114 &1928065230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1928065224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02dd983215d482245993bbc735bf5b84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 1928065232}
 --- !u!114 &1928065232 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 11483688, guid: 19eafe53a7aadc644bc46200d92edfcb,
@@ -3910,7 +3958,7 @@ VideoPlayer:
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_SkipOnDrop: 1
   m_Looping: 0
   m_WaitForFirstFrame: 1
@@ -3959,6 +4007,18 @@ AudioSource:
   m_CorrespondingSourceObject: {fileID: 8287798, guid: 19eafe53a7aadc644bc46200d92edfcb,
     type: 2}
   m_PrefabInternal: {fileID: 850314820}
+--- !u!114 &1989914398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1989914393}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02dd983215d482245993bbc735bf5b84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 1947940832}
 --- !u!1 &2007189502
 GameObject:
   m_ObjectHideFlags: 0
