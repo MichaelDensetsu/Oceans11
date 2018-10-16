@@ -333,6 +333,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 1942867348}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: ce20497125dcf164aa8ee185f1858474, type: 3}
 --- !u!1001 &90136201
@@ -674,6 +675,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 139406249}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: 73dd5ef255b6ce94290248e0090aa61c, type: 3}
 --- !u!4 &184923207 stripped
@@ -1603,6 +1605,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 0}
   au: {fileID: 0}
   ac: {fileID: 0}
 --- !u!114 &420576144
@@ -1741,6 +1744,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 521084443}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: 972875d4e141cb74d860720c7f2b3f3a, type: 3}
 --- !u!1 &550080875
@@ -3427,6 +3431,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 310010678}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: 1292af53d7afb33408429acb41254e25, type: 3}
 --- !u!82 &1249915085 stripped
@@ -4701,6 +4706,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 1928065232}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: 84861ba79ba46ff4994e45d55fd7d507, type: 3}
 --- !u!4 &1942867347 stripped
@@ -4783,6 +4789,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 1947940832}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: 472825d9c09d5d64997ee5481e876917, type: 3}
 --- !u!1 &2007189502

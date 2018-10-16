@@ -279,6 +279,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 0}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: 42bab0b42ee959b4b9ef76871b08ee41, type: 3}
 --- !u!1001 &90136201
@@ -923,7 +924,7 @@ Prefab:
     - target: {fileID: 2389160, guid: 40a3c2cb7308fdd49b8526fc1020e4eb, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 0ca2d337b852f3d41976e497851cfe0d, type: 2}
+      objectReference: {fileID: 2100000, guid: b8f079baf960d1449b2cfc4fccbeacf6, type: 2}
     - target: {fileID: 473928, guid: 40a3c2cb7308fdd49b8526fc1020e4eb, type: 2}
       propertyPath: m_LocalScale.x
       value: 1
@@ -1010,7 +1011,7 @@ Prefab:
     - target: {fileID: 2389160, guid: 40a3c2cb7308fdd49b8526fc1020e4eb, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: db5ab217146353841810fed2413496d3, type: 2}
+      objectReference: {fileID: 2100000, guid: 91047f1cb1b155d4fb9adfa00332246b, type: 2}
     - target: {fileID: 473928, guid: 40a3c2cb7308fdd49b8526fc1020e4eb, type: 2}
       propertyPath: m_LocalScale.x
       value: 1
@@ -2773,6 +2774,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 0}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: 4ecc03b99a7cda9419df82451019e115, type: 3}
 --- !u!114 &1277028541 stripped
@@ -2865,6 +2867,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 0}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: 3a8e82811ab8bc7458afd40543bc8ee5, type: 3}
 --- !u!82 &1292108481 stripped
@@ -3496,7 +3499,7 @@ Prefab:
     - target: {fileID: 2389160, guid: 40a3c2cb7308fdd49b8526fc1020e4eb, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: a19a1311b5d237c47b7fed7242d07577, type: 2}
+      objectReference: {fileID: 2100000, guid: 51ea7920f8c4d9c429a4cba08f8edd0e, type: 2}
     - target: {fileID: 473928, guid: 40a3c2cb7308fdd49b8526fc1020e4eb, type: 2}
       propertyPath: m_LocalScale.x
       value: 1
@@ -3517,6 +3520,44 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 473928, guid: 40a3c2cb7308fdd49b8526fc1020e4eb,
     type: 2}
   m_PrefabInternal: {fileID: 1598833806}
+--- !u!1 &1598833808 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 130436, guid: 40a3c2cb7308fdd49b8526fc1020e4eb,
+    type: 2}
+  m_PrefabInternal: {fileID: 1598833806}
+--- !u!328 &1598833809
+VideoPlayer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1598833808}
+  m_Enabled: 1
+  m_VideoClip: {fileID: 32900000, guid: 0a7460b9bfce3894899b1ff125a7e3ac, type: 3}
+  m_TargetCameraAlpha: 1
+  m_TargetCamera3DLayout: 0
+  m_TargetCamera: {fileID: 0}
+  m_TargetTexture: {fileID: 0}
+  m_TimeReference: 0
+  m_TargetMaterialRenderer: {fileID: 0}
+  m_TargetMaterialProperty: _MainTex
+  m_RenderMode: 3
+  m_AspectRatio: 2
+  m_DataSource: 0
+  m_PlaybackSpeed: 1
+  m_AudioOutputMode: 2
+  m_TargetAudioSources:
+  - {fileID: 0}
+  m_DirectAudioVolumes:
+  - 1
+  m_Url: 
+  m_EnabledAudioTracks: 01
+  m_DirectAudioMutes: 00
+  m_ControlledAudioTrackCount: 1
+  m_PlayOnAwake: 1
+  m_SkipOnDrop: 1
+  m_Looping: 0
+  m_WaitForFirstFrame: 1
+  m_FrameReadyEventEnabled: 0
 --- !u!1001 &1655933477
 Prefab:
   m_ObjectHideFlags: 0
@@ -3800,6 +3841,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 0}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: 1b0886070e135a94d9d305d568547aef, type: 3}
 --- !u!82 &1928065229 stripped
@@ -3884,6 +3926,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 0}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: 7b1f93c44df2e1b45b2dfcf1703692cd, type: 3}
 --- !u!114 &1989914396

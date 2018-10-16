@@ -316,6 +316,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 1942867348}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: 7ff7176573771c145ab66a3b69a05cc3, type: 3}
 --- !u!82 &71757996 stripped
@@ -2665,6 +2666,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 1184592136}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: 80423dd3ec19562448b57e0de03dd0ef, type: 3}
 --- !u!82 &1184592140 stripped
@@ -2705,6 +2707,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 310010678}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: 375ac090f14f25e439c39611514ff6af, type: 3}
 --- !u!82 &1249915085 stripped
@@ -3612,6 +3615,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 1928065232}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: 3f92b474b1c7e864fb6a34b326504e4c, type: 3}
 --- !u!82 &1928065229 stripped
@@ -3675,6 +3679,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_VRInteractiveItem: {fileID: 1947940832}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: db0cd4425b91a2b4bbc44f622ef77dbb, type: 3}
 --- !u!114 &1989914396

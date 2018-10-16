@@ -776,7 +776,7 @@ Prefab:
     - target: {fileID: 2388964, guid: 8425dec361a86f6419d316a88d6c87d9, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 322f10c57f11ab44f9e76922d3da1700, type: 2}
+      objectReference: {fileID: 2100000, guid: 7fbaa9a639a109748bf5548a765e329d, type: 2}
     - target: {fileID: 3330078, guid: 8425dec361a86f6419d316a88d6c87d9, type: 2}
       propertyPath: m_Mesh
       value: 

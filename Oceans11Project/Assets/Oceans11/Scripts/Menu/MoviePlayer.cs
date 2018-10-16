@@ -41,6 +41,6 @@ public class MoviePlayer : MonoBehaviour {
     private void HandleOut()
     {
         // When the user looks away from the VRInteractiveItem the textures should no longer be playing.
-        videoPlayer.Pause();
+        videoPlayer.Stop();
     }
 }
