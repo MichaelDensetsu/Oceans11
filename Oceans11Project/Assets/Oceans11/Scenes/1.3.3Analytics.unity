@@ -811,7 +811,7 @@ Prefab:
       objectReference: {fileID: 4300000, guid: 4b250d04710830b408d09e9b54fbfd63, type: 3}
     - target: {fileID: 11419562, guid: 19eafe53a7aadc644bc46200d92edfcb, type: 2}
       propertyPath: m_SceneToLoad
-      value: 
+      value: EndGame
       objectReference: {fileID: 0}
     - target: {fileID: 11443544, guid: 19eafe53a7aadc644bc46200d92edfcb, type: 2}
       propertyPath: m_Enabled
@@ -1330,7 +1330,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11450468, guid: 91b3bfdb6dd0b8847af2aed0f548e04a, type: 2}
       propertyPath: m_SceneToLoad
-      value: 
+      value: EndGame
       objectReference: {fileID: 0}
     - target: {fileID: 466652, guid: 91b3bfdb6dd0b8847af2aed0f548e04a, type: 2}
       propertyPath: m_LocalEulerAnglesHint.y
@@ -2077,7 +2077,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 24355188, guid: faa5d63fc44b7934da13fa4307dcad1e,
     type: 2}
-  m_audioClip: {fileID: 8300000, guid: 24b19f5b34a2e424a8cedb28f2261e8a, type: 3}
+  m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
