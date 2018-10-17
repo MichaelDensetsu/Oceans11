@@ -1426,7 +1426,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 11443544, guid: 19eafe53a7aadc644bc46200d92edfcb, type: 2}
       propertyPath: m_AnimTextures.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 464712, guid: 19eafe53a7aadc644bc46200d92edfcb, type: 2}
       propertyPath: m_LocalPosition.x
@@ -1818,7 +1818,7 @@ Prefab:
       objectReference: {fileID: 9100000, guid: b3595b605baa62b46813bd976bdde3bc, type: 2}
     - target: {fileID: 11419562, guid: 19eafe53a7aadc644bc46200d92edfcb, type: 2}
       propertyPath: m_SceneToLoad
-      value: 2. Non-Technical
+      value: 2.Non-Technical
       objectReference: {fileID: 0}
     - target: {fileID: 3386780, guid: 19eafe53a7aadc644bc46200d92edfcb, type: 2}
       propertyPath: m_Mesh

@@ -279,7 +279,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_VRInteractiveItem: {fileID: 0}
+  m_VRInteractiveItem: {fileID: 1942867348}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: 42bab0b42ee959b4b9ef76871b08ee41, type: 3}
 --- !u!114 &71757998
@@ -420,7 +420,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 11476294, guid: 904806be95c6f7644bf0c8303943662e, type: 2}
       propertyPath: m_AnimTextures.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 420702, guid: 904806be95c6f7644bf0c8303943662e, type: 2}
       propertyPath: m_LocalPosition.x
@@ -824,7 +824,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11476294, guid: 904806be95c6f7644bf0c8303943662e, type: 2}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8290214, guid: 904806be95c6f7644bf0c8303943662e, type: 2}
@@ -1189,7 +1189,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 11443544, guid: 19eafe53a7aadc644bc46200d92edfcb, type: 2}
       propertyPath: m_AnimTextures.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 464712, guid: 19eafe53a7aadc644bc46200d92edfcb, type: 2}
       propertyPath: m_LocalPosition.x
@@ -1593,7 +1593,7 @@ Prefab:
       objectReference: {fileID: 9100000, guid: b3595b605baa62b46813bd976bdde3bc, type: 2}
     - target: {fileID: 11443544, guid: 19eafe53a7aadc644bc46200d92edfcb, type: 2}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8257470, guid: 19eafe53a7aadc644bc46200d92edfcb, type: 2}
@@ -1808,7 +1808,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 11480060, guid: 91b3bfdb6dd0b8847af2aed0f548e04a, type: 2}
       propertyPath: m_AnimTextures.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 466652, guid: 91b3bfdb6dd0b8847af2aed0f548e04a, type: 2}
       propertyPath: m_LocalPosition.x
@@ -2120,7 +2120,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11480060, guid: 91b3bfdb6dd0b8847af2aed0f548e04a, type: 2}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8213178, guid: 91b3bfdb6dd0b8847af2aed0f548e04a, type: 2}
@@ -2192,7 +2192,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 11443544, guid: 19eafe53a7aadc644bc46200d92edfcb, type: 2}
       propertyPath: m_AnimTextures.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 464712, guid: 19eafe53a7aadc644bc46200d92edfcb, type: 2}
       propertyPath: m_LocalPosition.x
@@ -2600,7 +2600,7 @@ Prefab:
       objectReference: {fileID: 9100000, guid: b3595b605baa62b46813bd976bdde3bc, type: 2}
     - target: {fileID: 11443544, guid: 19eafe53a7aadc644bc46200d92edfcb, type: 2}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8257470, guid: 19eafe53a7aadc644bc46200d92edfcb, type: 2}
@@ -2786,7 +2786,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_VRInteractiveItem: {fileID: 0}
+  m_VRInteractiveItem: {fileID: 310010678}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: 4ecc03b99a7cda9419df82451019e115, type: 3}
 --- !u!114 &1249915088
@@ -2891,7 +2891,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_VRInteractiveItem: {fileID: 0}
+  m_VRInteractiveItem: {fileID: 1292108484}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: 3a8e82811ab8bc7458afd40543bc8ee5, type: 3}
 --- !u!82 &1292108481 stripped
@@ -3055,7 +3055,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 11476294, guid: 904806be95c6f7644bf0c8303943662e, type: 2}
       propertyPath: m_AnimTextures.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 420702, guid: 904806be95c6f7644bf0c8303943662e, type: 2}
       propertyPath: m_LocalPosition.x
@@ -3463,7 +3463,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11476294, guid: 904806be95c6f7644bf0c8303943662e, type: 2}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8290214, guid: 904806be95c6f7644bf0c8303943662e, type: 2}
@@ -3877,7 +3877,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_VRInteractiveItem: {fileID: 0}
+  m_VRInteractiveItem: {fileID: 1928065232}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: 1b0886070e135a94d9d305d568547aef, type: 3}
 --- !u!82 &1928065229 stripped
@@ -3974,7 +3974,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f23241773cbe90f42b5c90bad0857b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_VRInteractiveItem: {fileID: 0}
+  m_VRInteractiveItem: {fileID: 1947940832}
   au: {fileID: 1371930615}
   ac: {fileID: 8300000, guid: 7b1f93c44df2e1b45b2dfcf1703692cd, type: 3}
 --- !u!114 &1989914396
